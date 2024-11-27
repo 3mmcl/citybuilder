@@ -67,7 +67,7 @@ addthree.addEventListener("click",function(e){
 addfour.addEventListener("click",function(e){
 
     console.log("Button three pressed"); 
-    buildingamount += 3;
+    buildingamount += 4;
     document.getElementById("result").innerText = buildingamount;
 
     
